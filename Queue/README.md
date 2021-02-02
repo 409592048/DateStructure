@@ -42,7 +42,7 @@
 
 ![image-20210201220325884](https://i.loli.net/2021/02/01/6UicfZhTpSmDEb4.png)
 
-完善之后的代码如下：（测试代码详见 **[Sequential_Queue.c](https://gitee.com/pzhuweb/web2020/tree/202010804013-%E7%8E%8B%E5%87%AF%E7%90%AA/DateStructure/0010.Queue/Sequential_Queue.c)**）
+完善之后的代码如下：（测试代码详见 **[Sequential_Queue.c](https://github.com/409592048/DateStructure/blob/master/Queue/Sequential_Queue.c)**）
 
 ```c
 /*
@@ -156,7 +156,7 @@ QNODE *outQueue(QNODE *top,QNODE *rear){
 }
 ```
 
-测试如下：（测试代码详见 **[Chain_Queue.c](https://gitee.com/pzhuweb/web2020/tree/202010804013-%E7%8E%8B%E5%87%AF%E7%90%AA/DateStructure/0010.Queue/Chain_Queue.c)**）
+测试如下：（测试代码详见 **[Chain_Queue.c](https://github.com/409592048/DateStructure/blob/master/Queue/Chain_Queue.c)**）
 
 ![image-20210202123543000](https://i.loli.net/2021/02/02/rwiXmu47qAbOl8x.png)
 
